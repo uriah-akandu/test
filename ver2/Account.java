@@ -3,7 +3,7 @@ package ver2;
 public class Account {
 
     // instance variable
-    private double balance;
+    private double balance; //new comment for balance
 
     // constructor
     public Account(double initialBalance) {
